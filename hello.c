@@ -1,5 +1,5 @@
 /**
- * Author: Kaleb McQuillan, Michael Brandt
+ * Author: Kaleb McQuillan
  * Date: 2018/1/16
  *
  * A simple hello world program in C
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Kaleb McQuillan, Michael Brandt\n");
+  printf("Kaleb McQuillan, Electrical Engineering\n");
 
   return 0;
 }
